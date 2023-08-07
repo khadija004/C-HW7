@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C# P236\C#HW7\C#HW7\bin\Debug\net6.0\C#HW7.exe
+C:\Users\User\Desktop\C# P236\C#HW7\C#HW7\bin\Debug\net6.0\C#HW7.deps.json
+C:\Users\User\Desktop\C# P236\C#HW7\C#HW7\bin\Debug\net6.0\C#HW7.runtimeconfig.json
+C:\Users\User\Desktop\C# P236\C#HW7\C#HW7\bin\Debug\net6.0\C#HW7.dll
+C:\Users\User\Desktop\C# P236\C#HW7\C#HW7\bin\Debug\net6.0\C#HW7.pdb
+C:\Users\User\Desktop\C# P236\C#HW7\C#HW7\obj\Debug\net6.0\C#HW7.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C# P236\C#HW7\C#HW7\obj\Debug\net6.0\C#HW7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C# P236\C#HW7\C#HW7\obj\Debug\net6.0\C#HW7.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# P236\C#HW7\C#HW7\obj\Debug\net6.0\C#HW7.AssemblyInfo.cs
+C:\Users\User\Desktop\C# P236\C#HW7\C#HW7\obj\Debug\net6.0\C#HW7.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# P236\C#HW7\C#HW7\obj\Debug\net6.0\C#HW7.dll
+C:\Users\User\Desktop\C# P236\C#HW7\C#HW7\obj\Debug\net6.0\refint\C#HW7.dll
+C:\Users\User\Desktop\C# P236\C#HW7\C#HW7\obj\Debug\net6.0\C#HW7.pdb
+C:\Users\User\Desktop\C# P236\C#HW7\C#HW7\obj\Debug\net6.0\C#HW7.genruntimeconfig.cache
+C:\Users\User\Desktop\C# P236\C#HW7\C#HW7\obj\Debug\net6.0\ref\C#HW7.dll
